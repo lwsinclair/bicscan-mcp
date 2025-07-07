@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ahnlabio-bicscan-mcp-badge.png)](https://mseep.ai/app/ahnlabio-bicscan-mcp)
+
 # BICScan MCP Server
 
 A powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).
